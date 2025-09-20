@@ -46,10 +46,10 @@ dev = [
 123erfasst-test = "test-mcp-tools:main"
 
 [project.urls]
-Homepage = "https://github.com/yourusername/123erfasst-mcp-server"
-Documentation = "https://github.com/yourusername/123erfasst-mcp-server#readme"
-Repository = "https://github.com/yourusername/123erfasst-mcp-server"
-Issues = "https://github.com/yourusername/123erfasst-mcp-server/issues"
+Homepage = "https://github.com/retweetkoerbe/123erfasst-mcp-server"
+Documentation = "https://github.com/retweetkoerbe/123erfasst-mcp-server#readme"
+Repository = "https://github.com/retweetkoerbe/123erfasst-mcp-server"
+Issues = "https://github.com/retweetkoerbe/123erfasst-mcp-server/issues"
 
 [build-system]
 requires = ["hatchling"]

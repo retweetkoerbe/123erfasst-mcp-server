@@ -22,7 +22,7 @@ A Model Context Protocol (MCP) server for integrating with the 123erfasst constr
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/123erfasst-mcp-server.git
+   git clone https://github.com/retweetkoerbe/123erfasst-mcp-server.git
    cd 123erfasst-mcp-server
    ```
 
